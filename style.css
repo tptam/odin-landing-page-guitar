@@ -8,6 +8,20 @@ body {
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
 }
 
+button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 12px 36px;
+    border-radius: 12px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
 .header {
     padding-top: 24px;
     display: flex;
@@ -132,15 +146,33 @@ body {
     padding-right: 2rem;
 }
 
-button {
-    background-color: #3882f6;
-    color: #f9faf8;
-    font-size: 18px;
-    font-weight: bold;
-    padding: 12px 36px;
-    border-radius: 12px;
+.cta {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    background-color: #f9faf8;
 }
 
-a {
-    text-decoration: none;
+.cta .attention {
+    color: #f9faf8;
+    background-color: #3882f6;
+    border-radius: 12px;
+    padding: 60px 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cta h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+
+.cta p {
+    font-size: 18px;
+}
+
+.cta button {
+    border: 2px #f9faf8 solid;
+    flex: none;
 }
