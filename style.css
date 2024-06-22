@@ -21,6 +21,10 @@ body {
     gap: 24px;
 }
 
+.header a {
+    text-decoration: none;
+}
+
 .header, .hero, .footer {
     padding-left: 240px;
     padding-right: 240px;
@@ -40,7 +44,7 @@ body {
     font-weight: bolder;
 }
 
-.footer, .header ul, .hero p {
+.footer, .header a, .hero p {
     color: #e5e7eb;
     font-size: 18px;
 }
