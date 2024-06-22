@@ -15,6 +15,7 @@ button {
     font-weight: bold;
     padding: 12px 36px;
     border-radius: 12px;
+    border-style: none;
 }
 
 a {
