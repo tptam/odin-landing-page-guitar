@@ -42,9 +42,12 @@ body {
     margin: 24px 0px;
 }
 
-.header, .hero, .footer {
+.header, .hero, .info, .quote, .cta, .footer {
     padding-left: 240px;
     padding-right: 240px;
+}
+
+.header, .hero, .footer {
     background-color: #1f2937;
 }
 
