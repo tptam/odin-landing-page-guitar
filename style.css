@@ -42,6 +42,8 @@ body {
     margin: 24px 0px;
 }
 
+
+
 .header, .hero, .info, .quote, .cta, .footer {
     padding-left: 240px;
     padding-right: 240px;
@@ -67,6 +69,17 @@ body {
 .footer, .header a, .hero p {
     color: #e5e7eb;
     font-size: 18px;
+}
+
+.info {
+    color: #1f2937;
+    background-color: #f9faf8;
+}
+
+.info h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    text-align: center;
 }
 
 button {
