@@ -74,6 +74,8 @@ body {
 .info {
     color: #1f2937;
     background-color: #f9faf8;
+    padding-top: 60px;
+    padding-bottom: 120px;
 }
 
 .info h2 {
