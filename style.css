@@ -3,3 +3,13 @@
     padding: 0px;
     box-sizing: border-box;
 }
+
+.header, .hero, .footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+}
+
+.hero h2 {
+    font-size: 48px;
+    font-weight: bolder;
+}
