@@ -10,7 +10,6 @@ body {
 
 .header {
     padding-top: 24px;
-    padding-bottom: 24px;
     display: flex;
     justify-content: space-between;
 }
@@ -21,8 +20,9 @@ body {
     gap: 24px;
 }
 
-.header a {
-    text-decoration: none;
+.hero {
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
 
 .header, .hero, .footer {
@@ -54,4 +54,8 @@ button {
     color: #f9faf8;
     font-size: 18px;
     font-weight: bold;
+}
+
+a {
+    text-decoration: none;
 }
