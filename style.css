@@ -87,7 +87,8 @@ body {
 
 .info .card-deck {
     display: flex;
-
+    gap: 24px;
+    justify-content: space-around;
 }
 
 button {
