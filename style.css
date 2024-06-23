@@ -163,10 +163,11 @@ a {
     border-radius: 12px;
     padding: 60px 10%;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    gap: 24px;
+    column-gap: 15%;
+    row-gap: 48px;
 }
 
 .cta h2 {
