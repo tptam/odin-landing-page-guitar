@@ -102,6 +102,7 @@ a {
 
 .info .card-deck {
     display: flex;
+    flex-wrap: wrap;
     gap: 24px;
     justify-content: space-around;
 }
