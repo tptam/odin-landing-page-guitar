@@ -40,8 +40,9 @@ a {
     padding-bottom: 120px;
     display: flex;
     justify-content: space-between;
-    align-items: flex-start;
+    align-items: flex-end;
     gap: 24px;
+    flex-wrap: wrap-reverse;
 }
 
 .hero .right {
