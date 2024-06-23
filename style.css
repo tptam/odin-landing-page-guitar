@@ -9,7 +9,7 @@ body {
 }
 
 button {
-    background-color: #3882f6;
+    background-color: #ef8300;
     color: #faf9f6;
     font-size: 18px;
     font-weight: 700;
@@ -165,7 +165,7 @@ p {
 
 .cta .attention {
     color: #faf9f6;
-    background-color: #a0522d;
+    background-color: #ef8300;
     border-radius: 12px;
     padding: 60px 10%;
     display: flex;
