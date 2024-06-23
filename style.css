@@ -12,7 +12,7 @@ button {
     background-color: #3882f6;
     color: #f9faf8;
     font-size: 18px;
-    font-weight: bold;
+    font-weight: 700;
     padding: 12px 36px;
     border-radius: 12px;
     border-style: none;
@@ -78,7 +78,7 @@ a {
 
 .hero h2 {
     font-size: 48px;
-    font-weight: bolder;
+    font-weight: 800;
 }
 
 .footer, .header a, .hero p {
@@ -95,7 +95,7 @@ a {
 
 .info h2 {
     font-size: 36px;
-    font-weight: bolder;
+    font-weight: 800;
     text-align: center;
     margin-bottom: 48px;
 }
@@ -165,7 +165,7 @@ a {
 
 .cta h2 {
     font-size: 24px;
-    font-weight: bold;
+    font-weight: 700;
     margin-bottom: 12px;
 }
 
