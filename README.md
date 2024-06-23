@@ -1,6 +1,6 @@
 # odin-landing-page-guitar
 
-- Landing page for a guitar teacher website
+- Landing page for a guitar school website
 
 - Based on <a href="https://www.theodinproject.com/lessons/foundations-landing-page">Project: Landing Page</a> in Foundation Course 
 
