@@ -161,7 +161,7 @@ a {
     color: #f9faf8;
     background-color: #3882f6;
     border-radius: 12px;
-    padding: 60px 120px;
+    padding: 60px 10%;
     display: flex;
     justify-content: space-between;
     align-items: center;
